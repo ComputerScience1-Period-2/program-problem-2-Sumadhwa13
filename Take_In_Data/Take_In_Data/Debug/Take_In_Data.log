@@ -1,0 +1,4 @@
+﻿  Program Problem 2.cpp
+c:\users\237727\visual studio projects\take_in_data\take_in_data\program problem 2.cpp(25): warning C4101: 'num_four': unreferenced local variable
+  Take_In_Data.vcxproj -> C:\Users\237727\Visual Studio Projects\Take_In_Data\Debug\Take_In_Data.exe
+  Take_In_Data.vcxproj -> C:\Users\237727\Visual Studio Projects\Take_In_Data\Debug\Take_In_Data.pdb (Partial PDB)
